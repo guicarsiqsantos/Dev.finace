@@ -19,7 +19,7 @@
 
 ## Projeto
 
-    Desenvolvido aplicação em html5, utiliznado javascript e css. Este projeto foi desenvolvido na maratona discovery fornecida pela rocketseat comandado pelo Mack Brito.
+Desenvolvido aplicação em html5, utiliznado javascript e css. Este projeto foi desenvolvido na maratona discovery fornecida pela rocketseat comandado pelo Mack Brito.
 
 
 <br />
@@ -30,8 +30,8 @@
 # Resultado
 
 <h1 align="center">
-   <img src="docs/Tela1.png">
+   <img src="./docs/Tela1.png">
     <br />
     <br />
-   <img src="docs/tela2.png">
+   <img src="./docs/Tela2.png">
 </h1>
